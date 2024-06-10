@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Xray",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An open source library for Simplifying database structure extraction for databases in Go. Implemented methods for extracting database schema for MySQL and PostgreSQL, Snowflake, Bigquery. Added unit tests to test the library functionality and reliability. Created a library to provide developers with a reliable tool for simplifying database structure extraction in Go projects.",
+    url: "", // URL not provided
   },
   {
-    title: "Web Development for Beginners",
+    title: "Toolcraft: A Microservice Tool Calculator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A microservice application that calculates the real-time distance travelled by a vehicle and creates a toll tax invoice accordingly. Integrated with WebSocket for real-time data visualization & Apache Kafka for real-time data processing. Implemented GRPC for microservice communication. The application has Prometheus and Grafana integrated for monitoring and alerting.",
+    url: "", // URL not provided
   },
   {
-    title: "My Resume Site",
+    title: "Book My Hotel",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A fully fledged backend system that facilitates hotel management (an OYO MVP). Implemented JWT Token based Authentication. Added Admin panel for Hotel and room management. Added Database seeding using MongoDB.",
+    url: "", // URL not provided
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Ubuntu-Github-Notifier",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A Linux service that sends your GitHub notifications directly into your Ubuntu's centralized notification center. Built for automating your repetitive notifications rechecking. Used GitHub API for fetching real-time notifications. Used Linux kernel built-in package 'notify-send' to send the notification.",
+    url: "", // URL not provided
   },
 ];
 
